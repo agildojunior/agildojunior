@@ -4,10 +4,10 @@ Olá Me chamo Agildo Medeiros Junior 👋
 - 🏡 Sou de Severiano Melo/RN, Brasil...
 - 💬 Olá, eu me chamo Agildo Medeiros Junior, sou Graduando, 5º período em Analise e Desenvolvimento de Sistema no IFRN, tenho conhecimento em tecnologias como HTML ,CSS, Javascript, PHP, Python, e também já utilizei Frameworks como Laravel, NextJS e React Native.
 
-<div align="center">
+<div>
   <a href="https://github.com/agildojunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agildojunior&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agildojunior&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agildojunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agildojunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
