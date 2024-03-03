@@ -1,8 +1,8 @@
 Olá Me chamo Agildo Medeiros Junior 👋
 
-- 💻 Sou aluno de Analise e Desenvolvimento de Sistemas pelo IFRN...
+- 💻 Sou Formado em Analise e Desenvolvimento de Sistemas pelo IFRN...
 - 🏡 Sou de Severiano Melo/RN, Brasil...
-- 💬 Olá, eu me chamo Agildo Medeiros Junior, sou Graduando, 6º período em Analise e Desenvolvimento de Sistema no IFRN, tenho conhecimento em tecnologias como HTML ,CSS, Javascript, PHP, Python, e também já utilizei Frameworks como Laravel, NextJS, Django e React Native.
+- 💬 Olá, eu me chamo Agildo Medeiros Junior, sou Graduado em Analise e Desenvolvimento de Sistema no IFRN.
 
 <div>
   <a href="https://github.com/agildojunior">
