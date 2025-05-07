@@ -4,6 +4,11 @@ Olá Me chamo Agildo Medeiros Junior 👋
 - 🏡 Sou de Severiano Melo/RN, Brasil...
 - 💬 Olá, eu me chamo Agildo Medeiros Junior, sou Graduado em Analise e Desenvolvimento de Sistema no IFRN.
 
+<div>
+  <a href="https://github.com/agildojunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agildojunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
